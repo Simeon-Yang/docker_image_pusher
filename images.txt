@@ -1,1 +1,1 @@
-fathyb/carbonyl
+fathyb/carbonyl:latest
